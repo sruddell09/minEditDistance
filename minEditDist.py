@@ -21,9 +21,6 @@ def med(source, target):
 
 if __name__ == '__main__':
 
-    source = 'test'
-    target = 'testt'
-
     ones = 0
     twos = 0
 
